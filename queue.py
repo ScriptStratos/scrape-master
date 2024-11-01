@@ -1,6 +1,7 @@
 import redis
 from typing import List, Dict, Any
 import json
+# Refactored parser - 2026-03-11
 
 class TaskQueue:
     """Manages the queue of URLs to be scraped using Redis."""
