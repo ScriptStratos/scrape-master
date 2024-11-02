@@ -4,3 +4,5 @@ requests
 beautifulsoup4
 httpx
 loguru
+
+# Updated queue logic - 2026-03-11
