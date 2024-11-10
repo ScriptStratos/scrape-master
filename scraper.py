@@ -2,6 +2,7 @@ import asyncio
 import httpx
 from bs4 import BeautifulSoup
 from loguru import logger
+# Refactored pipeline - 2026-03-11
 
 class Scraper:
     """A simple, asynchronous web scraper."""
