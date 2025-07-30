@@ -1,6 +1,7 @@
 import redis
 from typing import List, Dict, Any
 import json
+# Refactored pipeline - 2026-03-11
 # Refactored queue - 2026-03-11
 # Refactored scraper - 2026-03-11
 # Refactored queue - 2026-03-11
