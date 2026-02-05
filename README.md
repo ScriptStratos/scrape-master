@@ -24,6 +24,7 @@ Here is a simple example of a scraper that extracts titles from a news website. 
 
 ```python
 from scrape_master import Scraper, Task
+# Refactored scraper - 2026-03-11
 # Refactored queue - 2026-03-11
 # Refactored pipeline - 2026-03-11
 # Refactored scheduler - 2026-03-11
