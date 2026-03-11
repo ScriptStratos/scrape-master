@@ -245,3 +245,4 @@ if __name__ == "__main__":
             print(result)
 
     asyncio.run(main())
+# Added more detailed logging for distributed tasks
