@@ -1,0 +1,6 @@
+celery
+redis
+requests
+beautifulsoup4
+httpx
+loguru
